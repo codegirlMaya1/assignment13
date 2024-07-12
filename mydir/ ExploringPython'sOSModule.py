@@ -8,4 +8,6 @@ user=int(input(" Type 1 or 2: "))
 if user==1:
     print(old_path) 
 elif  user==2:
-    print(new_path)   
+    print(new_path)
+
+# Please move hi_file.txt back under "ExploringPython'sOsModule.py (original path) if resetting or starting over"
